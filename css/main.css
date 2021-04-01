@@ -73,6 +73,12 @@ footer {
 
   #column-3 {
     background-color: #D3A588;
+    width: 100%
+  }
+  .col-3 {
+    width: 50%;
+    height: 320px;
+    float: left;
   }
 
   footer {
@@ -98,8 +104,13 @@ footer {
 
   #column-3 {
     background-color: #FE5F55;
+    width: 33.3%;
   }
-
+  .col-3 {
+    width: 33.3%;
+    height: 320px;
+    float: left;
+  }
   footer {
     background-color: #FF8811;
   }
